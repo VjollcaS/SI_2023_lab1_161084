@@ -1,0 +1,12 @@
+$ git log
+commit 3403cf9ceadfcb47a12523f3885e814b600b08d7 (HEAD -> master, origin/master)
+Author: vjollcaS <63475868+vjollcaS@users.noreply.github.com>
+Date:   Sat Apr 1 16:52:06 2023 +0200
+
+    Add java class
+
+commit 635e04a2faa97d96fd3518659a65c7c909677535
+Author: vjollcaS <63475868+vjollcaS@users.noreply.github.com>
+Date:   Sat Apr 1 16:26:30 2023 +0200
+
+    Initial commit

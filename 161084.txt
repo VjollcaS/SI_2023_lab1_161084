@@ -1,0 +1,15 @@
+git init - inicijalizacija na lokalniot direktorium
+git remote add origin (link) - povrzuvanje na lokalniot so odaleceniot direktorium
+echo 'Vjollca Sulejmani 161084' > README.md -kreiranje na read mi i pisuvanje
+git add README.md -se stava na scena
+git commit -m "Initial commit" - se pravi commit
+git push origin master -pravime push na remote repo
+git add SILab1.java
+git commit -m "ADD java class"
+git push origin master -se previ push i na java fajlot
+git log
+nano logs.txt
+nano 161084.txt
+git add 161084.txt logs.txt
+git commit
+git push origin master
